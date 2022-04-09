@@ -1,7 +1,7 @@
-object Client {
+object Server {
 
   def main(args: Array[String]): Unit ={
-    print("Hello by client")
+    print("Hello by server")
   }
 
 }
